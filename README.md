@@ -6,4 +6,5 @@ got
 it   add
 new   
 line 
-line2
+line2 
+lin3
